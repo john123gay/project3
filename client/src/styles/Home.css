@@ -1,0 +1,26 @@
+/* body {
+  background-image: url('./images/leaf.jpg');
+  background-repeat: "no-repeat";
+  background-size: "cover";
+};
+*/
+
+.header {
+    font-size: 40px;
+    position: fixed;
+}
+
+.water,
+.graph {
+  font-size: 100px;
+  cursor: pointer;
+  margin: 20px;
+}
+
+ul {
+  transform: translate(-50%, -50%);
+  position: fixed;
+  top: 80%;
+  left: 50%;
+  list-style-type: none;
+}  
